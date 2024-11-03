@@ -77,5 +77,3 @@ The recommendation system's performance is evaluated using precision and recall 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to update the sections based on your project's specific requirements, add any additional instructions, or modify any content that better suits your project style. Let me know if you need any further modifications!
