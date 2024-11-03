@@ -1,8 +1,4 @@
-Here's a comprehensive README file template for your movie recommendation system project. You can modify it as needed to fit your specific project details and preferences.
-
----
-
-# Movie Recommendation System
+# FilmFinder: A Multi-Algorithm Movie Recommendation Engine
 
 ## Overview
 This project implements a movie recommendation system using the MovieLens 20M dataset. It employs various recommendation algorithms, including popularity filtering, content-based filtering, collaborative filtering, and integrates natural language processing (NLP) with Hugging Face's models. The goal is to provide personalized movie recommendations based on user preferences and behaviors.
